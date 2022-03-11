@@ -1,1 +1,4 @@
-word = hello world!
+word: hello world!
+username: root
+password: 123456
+
